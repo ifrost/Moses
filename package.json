@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ifrost/moses#readme",
   "dependencies": {
     "protoplast": "1.2.4",
-    "requirejs": "2.1.22"
+    "requirejs": "2.3.7"
   },
   "devDependencies": {
     "almond": "0.3.1",
